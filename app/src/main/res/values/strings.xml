@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="nameError">Name cannot be empty</string>
+    <string name="phoneError">Phone cannot be empty</string>
+</resources>
