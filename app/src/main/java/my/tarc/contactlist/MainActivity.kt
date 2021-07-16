@@ -50,6 +50,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+//    as
+
     private fun showRecord(contact: Contact) {
         binding.contact = contact
         binding.invalidateAll()
