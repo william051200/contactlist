@@ -6,6 +6,7 @@ import androidx.databinding.DataBindingUtil
 import my.tarc.contactlist.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+    // test
     private lateinit var binding: ActivityMainBinding
     private val contactList = ArrayList<Contact>()
     private var index = -1
